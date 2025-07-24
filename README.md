@@ -7,11 +7,10 @@ Welcome to Educational Website! This is a educational website using HTML, CSS, a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 # Installation 
 installation command
-<br/>  git clone <"https://github.com/">
+<br/>  git clone <"[https://github.com/AkshathaS13/Online-Education-System]">
 
 # Usage
 For Students to learn and grow by having access to wide study materials. 
