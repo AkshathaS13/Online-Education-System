@@ -10,17 +10,17 @@ Usage
 
 Contributing
 
-Installation
+# Installation
 
 installation command
 
 git clone <"[https://github.com/AkshathaS13/Online-Education-System]">
 
-Usage
+# Usage
 
 For Students to learn and grow by having access to wide study materials.
 
-Contributing to Educational Website
+# Contributing to Educational Website
 
 We welcome contributions from the community! To contribute, follow these steps:
 
